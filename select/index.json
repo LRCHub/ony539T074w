@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "白日",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-02T12:52:00.451059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "Elephant Gym",
+      "has_synced": true,
+      "path": "select/01_白日_Elephant_Gym.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_白日_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day Time - 白日",
+      "artist": "大象體操",
+      "has_synced": true,
+      "path": "select/03_Day_Time_-_白日_大象體操.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白日 - 10 years ver.",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_白日_-_10_years_ver._RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "Elephant Gym",
+      "has_synced": true,
+      "path": "select/05_白日_Elephant_Gym.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day time - 白日",
+      "artist": "Elephant Gym",
+      "has_synced": true,
+      "path": "select/06_Day_time_-_白日_Elephant_Gym.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_白日_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "Rip Slyme",
+      "has_synced": false,
+      "path": "select/08_白日_Rip_Slyme.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "大象體操",
+      "has_synced": true,
+      "path": "select/09_白日_大象體操.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King Gnu - 白日",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/10_King_Gnu_-_白日_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "白日 Day Time",
+      "artist": "大象體操",
+      "has_synced": true,
+      "path": "select/11_白日_Day_Time_大象體操.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/12_白日_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "白日 - Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/13_白日_-_Hakujitsu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/14_白日_Uru.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "yurisa",
+      "has_synced": true,
+      "path": "select/15_白日_yurisa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "白日",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/16_白日_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "白日 - Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/17_白日_-_Hakujitsu_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白日",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_白日_King_Gnu.txt"
+    }
+  ]
+}
